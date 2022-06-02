@@ -2,7 +2,7 @@
 
 🙋‍♀️  About Me:
 
-  • 👩‍🚀   Studying Software engeneering at ESPRIT.
+  • 👩‍🚀   Studying Software engeneering at ESPRIT.\n
   • 👩‍💻   Learning every day.
   • 🤔   I’m curious about NFT, Metavers, and Artificial Inteligence.
   • 📄   Resume: [here](https://drive.google.com/file/d/1QTKKXYfL5qznr6iW0lmUV8c9_zCOIWIX/view?usp=sharing)
