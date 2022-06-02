@@ -1,6 +1,7 @@
 ### Hi there, I'm Mortadha Gaied 👋
 
-🙋‍♀️  About Me
+🙋‍♀️  About Me:
+
   • 👩‍🚀   Studying Software engeneering at ESPRIT.
   • 👩‍💻   Learning every day.
   • 🤔   I’m curious about NFT, Metavers, and Artificial Inteligence.
