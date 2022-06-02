@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Mortadha Gaied 👋
 
+🙋‍♀️  About Me
+  • 👩‍🚀   Studying Software engeneering at ESPRIT.
+  • 👩‍💻   Learning every day.
+  • 🤔   I’m curious about NFT, Metavers, and Artificial Inteligence.
+  • 📄   Resume: [here](https://drive.google.com/file/d/1QTKKXYfL5qznr6iW0lmUV8c9_zCOIWIX/view?usp=sharing)
 <!--
 **MortadhaGaied/MortadhaGaied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
