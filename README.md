@@ -12,8 +12,7 @@
 
 ### Connect with me:
 
-[!<img align="left" alt="linkedin profile" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://codestackr.com#gh-light-mode-only)
-
+![plot](./img/linkedin.png)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
