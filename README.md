@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/mortadha-gaied-87ab18214/)
+
+[<img align="left" alt="Linkedin profile" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/mortadha-gaied-87ab18214/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
