@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-![plot](./img/linkedin.png)
+[![website](./img/linkedin.png)](https://www.linkedin.com/in/mortadha-gaied-87ab18214/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
